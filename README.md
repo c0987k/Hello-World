@@ -1,3 +1,3 @@
 # Hello-World
 My first FreeCodeCampProject
-This is the edit of gteh readme branch.
+This is the edit of the readme branch.
